@@ -22,7 +22,7 @@ repository               : "rictoffanin/rictoffanin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
+  avatar           : "profile_photo.jpg.png"
   name             : "Riccardo Toffanin"
   pronouns         : # example: "she/her"  
   bio              : "Energy Engineer"

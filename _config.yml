@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Riccardo Toffanin"
   pronouns         : # example: "she/her"  
   bio              : "Energy Engineer"
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-8632-2948"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 

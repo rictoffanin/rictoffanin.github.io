@@ -12,7 +12,8 @@ main:
     url: /cv/
     
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
+    url: https://scholar.google.com/citations?user=HX8NHnAAAAAJ
 
   # - title: "Talks"
   #   url: /talks/    

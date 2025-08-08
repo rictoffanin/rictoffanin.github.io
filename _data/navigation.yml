@@ -10,7 +10,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/CV_RT_github.pdf
+    url: /files/CV_RT.pdf
     
   - title: "Publications"
     # url: /publications/
